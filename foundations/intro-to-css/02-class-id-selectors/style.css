@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+.bullet-onefive {
+    background-color: palevioletred; font-family: Verdana, DejaVu Sans, Sans Serif;
+}
+
+ #bullettwo {
+    color: blue; font-size: 36px;
+ }
+
+ .three {
+    font-size: 24px;
+ }
+
+#bulletfour {
+    background-color: lightgreen; font-size: 24px; font-weight: 700;
+} 
